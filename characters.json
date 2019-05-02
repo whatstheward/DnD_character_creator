@@ -1,0 +1,13 @@
+{
+    "characters":[
+    {
+    "id": 1,
+    "name": "Dalton Rocky Face",
+    "race": "Dwarf",
+    "characterClass": "Fighter",
+    "abilities": [{"strength": 16},{"dexterity": 12}, {"consitution": 18}, {"wisdom": 10}, {"intelligence": 13}, {"charisma": 8}],
+    "skills": [],
+    "bio": "Dalton Rocky Face, once a revered Stone Mason, traded in his hammer and chisel for a Great Axe after the darkspawn began invading Thedas.",
+    "image": "https://www.pngkey.com/png/full/84-847299_dwarf-transparent-image-dnd-dwarf-fighter.png" }
+    ]
+}
